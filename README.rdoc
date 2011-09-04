@@ -1,0 +1,8 @@
+= c_study
+
+* Author: Yang Juven(yangjuven@gmail.com)
+* Date: Sep 4, 2011
+
+== Description
+
+c_study is a code set when I study c language.
